@@ -1,6 +1,6 @@
 # 关于我
-一名六年级小学生，12岁
-有Python,C++,Vue开发经验
+一名学生
+没什么可做的
 ## 我的Stats
 ![I'm stats](https://github-readme-stats.vercel.app/api?username=VMTask&show_icons=true&theme=aura)
 ## 我的Top-Lang
